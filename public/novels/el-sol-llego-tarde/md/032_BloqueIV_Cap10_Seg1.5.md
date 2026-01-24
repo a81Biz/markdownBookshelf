@@ -1,0 +1,15 @@
+# Acto: La Consola de Mando
+## Capítulo 10: "la rejilla del intercomunicador, la lámpara de estática, el borde de la mesa"
+### Segmento 1.5
+
+El silencio en su lado derecho no era una ausencia de sonido; era una presencia sólida, un bloque de plomo invisible que le tiraba del cráneo hacia el hombro. Isabel intentó sacudir la cabeza, esperando el alivio de un chasquido o el zumbido de un tímpano que lucha por reaccionar, pero no obtuvo nada. El vacío era absoluto, una habitación cuyas puertas habían sido selladas con cemento y cuya existencia misma había sido borrada del mapa de sus nervios. Intentó chasquear los dedos cerca de su oreja derecha. Nada. Ni siquiera la vibración del aire. Era como si el universo se hubiera quedado sin materia en ese costado exacto de su realidad. La náusea, que hasta entonces era una amenaza latente, se convirtió en una garra de hierro que le estrujó el estómago, obligándola a tragar una saliva amarga que sabía a bilis y a cobre oxidado.
+
+Decidió que el suelo no podía seguir siendo su única verdad. Se obligó a apoyar las palmas contra la obsidiana, sintiendo la textura gélida y perfecta del vidrio volcánico. En su mente, el movimiento para ponerse de pie era una secuencia lógica: tensar los cuádriceps, pivotar sobre los talones, encontrar el eje. Pero Valdoria ya no aceptaba su lógica. Al intentar despegar las rodillas de la piedra, el mundo no se limitó a girar; se desmoronó. El techo de granito se precipitó hacia su izquierda con una velocidad depredadora, mientras el suelo parecía licuarse bajo su pie derecho. Su pierna derecha no respondió como carne; respondió como madera muerta, un puntal inerte que no reconocía las órdenes de su cerebro.
+
+Isabel colapsó antes de alcanzar los diez centímetros de altura. Su rostro golpeó la obsidiana con un sonido seco, el tipo de impacto que debería haberle roto el pómulo, pero que ella percibió con una latencia cruel, como si el dolor tuviera que viajar por una red de cables dañados antes de llegar a su conciencia. Se quedó allí, con la mejilla aplastada contra el frío, observando con su único ojo funcional cómo una mota de polvo bailaba en el aire estático.
+
+—No era una caída —murmuró, y su voz le llegó distorsionada, como si hablara a través de un tubo de metal sumergido en agua—. Era una desinstalación.
+
+Se miró la mano derecha. Estaba allí, pálida y veteada de azul bajo la luz ámbar, pero la sentía a kilómetros de distancia. La asimetría era total. El Sello en su pecho latía con una furia sorda, alimentándose de su desorientación, convirtiendo su vértigo en energía pura para los colectores de arriba. El sol, ese sol que siempre llegaba tarde, ahora le parecía un chiste de mal gusto. ¿Para qué querría la luz alguien que ya no podía distinguir el arriba del abajo? Isabel cerró el ojo y se dejó tragar por el giro infinito de la habitación, aceptando que la bipedestación era un lujo de los seres que todavía se pertenecían a sí mismos. Ella ya no era un ser; era una frecuencia rota anclada a una montaña que no pensaba dejarla caer, pero que tampoco le permitiría volver a caminar.
+
+---

@@ -1,5 +1,5 @@
 {
-  "name": "Valdoria E-Reader",
+  "name": "Markdown Bookshelf",
   "description": "A modern, single-file e-reader application that dynamically loads and displays novels from local Markdown files, featuring text-to-speech functionality and multiple reading themes.",
   "requestFramePermissions": []
 }

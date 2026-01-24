@@ -1,8 +1,16 @@
-# 1. Solicitar datos al usuario
+# 1. Definir la función de ordenación lógica de Windows
+$Signature = @'
+[DllImport("shlwapi.dll", CharSet = CharSet.Unicode)]
+public static extern int StrCmpLogicalW(string s1, string s2);
+'@
+
+$Type = Add-Type -MemberDefinition $Signature -Name "Win32Utils" -Namespace "Util" -PassThru
+
+# 2. Solicitar datos al usuario
 $tituloLibro = Read-Host "Introduce el título del libro"
 $autorLibro = Read-Host "Introduce el nombre del autor"
+$esFinal = Read-Host "¿Es versión final estructurada? (S/N)"
 
-# 2. Configurar rutas
 $folderPath = "./md"
 $outputFile = "index.json"
 
@@ -11,40 +19,64 @@ if (-not (Test-Path $folderPath)) {
     exit
 }
 
-# 3. Listar archivos .md con ORDEN NATURAL (7 viene antes que 10)
-# Usamos un regex para encontrar números y rellenarlos con ceros solo para la comparación
-$files = Get-ChildItem -Path $folderPath -Filter *.md | Sort-Object { 
-    [regex]::Replace($_.Name, '\d+', { $args[0].Value.PadLeft(10, '0') }) 
-}
+# 3. Listar archivos .md y ordenar usando la función de Windows
+$files = Get-ChildItem -Path $folderPath -Filter *.md | ForEach-Object { $_ } | Sort-Object { $_.Name } # Inicial
+# Ordenar la lista usando el método de comparación lógica
+[Array]::Sort($files, [System.Comparison[System.IO.FileInfo]]{
+    param($x, $y) return [Util.Win32Utils]::StrCmpLogicalW($x.Name, $y.Name)
+})
 
-$chapters = @()
+if ($esFinal -eq "S" -or $esFinal -eq "s") {
+    # --- MODO VERSIÓN FINAL (BLOQUES > CAPÍTULOS > SEGMENTOS) ---
+    $bookStructure = @()
 
-foreach ($file in $files) {
-    # 4. Leer el contenido para buscar el título ###
-    $content = Get-Content -Path $file.FullName -Raw -Encoding UTF8
-    
-    # Busca la línea que empieza con ###
-    if ($content -match '(?m)^###\s*(.*)') {
-        $chapterTitle = $matches[1].Trim()
-    } else {
-        $chapterTitle = $file.Name # Fallback al nombre del archivo
+    foreach ($file in $files) {
+        $content = Get-Content -Path $file.FullName -Raw -Encoding UTF8
+        
+        # Extracción de metadatos usando Regex
+        $acto = if ($content -match '(?m)^#\s*(.*)') { $matches[1].Trim() } else { "Bloque Sin Título" }
+        $capitulo = if ($content -match '(?m)^##\s*(.*)') { $matches[1].Trim() } else { "Capítulo Sin Título" }
+        $segmento = if ($content -match '(?m)^###\s*(.*)') { $matches[1].Trim() } else { "***" }
+
+        # Buscar o crear el Acto/Bloque
+        $currentAct = $bookStructure | Where-Object { $_.act -eq $acto }
+        if (-not $currentAct) {
+            $currentAct = [PSCustomObject]@{ act = $acto; chapters = @() }
+            $bookStructure += $currentAct
+        }
+
+        # Buscar o crear el Capítulo dentro del Acto
+        $currentChapter = $currentAct.chapters | Where-Object { $_.chapter -eq $capitulo }
+        if (-not $currentChapter) {
+            $currentChapter = [PSCustomObject]@{ chapter = $capitulo; segments = @() }
+            $currentAct.chapters += $currentChapter
+        }
+
+        # Añadir el segmento
+        $currentChapter.segments += [PSCustomObject]@{
+            segment = $segmento
+            file    = "md/$($file.Name)"
+        }
     }
 
-    # Añadir al array de capítulos
-    $chapters += [PSCustomObject]@{
-        title = $chapterTitle
-        file  = "md/$($file.Name)"
+    $indexObject = [PSCustomObject]@{
+        title  = $tituloLibro
+        author = $autorLibro
+        book   = $bookStructure
     }
+
+} else {
+    # --- MODO SIMPLE ---
+    $chapters = @()
+    foreach ($file in $files) {
+        $content = Get-Content -Path $file.FullName -Raw -Encoding UTF8
+        $chapterTitle = if ($content -match '(?m)^###\s*(.*)') { $matches[1].Trim() } else { $file.Name }
+        $chapters += [PSCustomObject]@{ title = $chapterTitle; file = "md/$($file.Name)" }
+    }
+    $indexObject = [PSCustomObject]@{ title = $tituloLibro; author = $autorLibro; chapters = $chapters }
 }
 
-# 5. Crear objeto final y convertir a JSON
-$indexObject = [PSCustomObject]@{
-    title    = $tituloLibro
-    author   = $autorLibro
-    chapters = $chapters
-}
+# 4. Guardar y sobreescribir con profundidad de 10 niveles
+$indexObject | ConvertTo-Json -Depth 10 | Out-File -FilePath $outputFile -Encoding UTF8 -Force
 
-# Guardar y sobreescribir con -Force
-$indexObject | ConvertTo-Json -Depth 4 | Out-File -FilePath $outputFile -Encoding UTF8 -Force
-
-Write-Host "`n¡Éxito! '$outputFile' generado con orden natural ($($chapters.Count) capítulos)." -ForegroundColor Green
+Write-Host "`n¡Éxito! '$outputFile' generado con orden lógico corregido ($($files.Count) archivos)." -ForegroundColor Green

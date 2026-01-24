@@ -78,15 +78,96 @@ const ReaderPage = () => {
                 const indexData = await indexRes.json();
                 setChapterInfo({ title: indexData.title, author: indexData.author });
 
-                const chapterPromises = indexData.chapters.map((chapter: { file: string }) => {
-                    const safePath = chapter.file.split('/').map(part => encodeURIComponent(part)).join('/');
+                // Unified Interface for internal loading
+                interface LoadableUnit {
+                    file: string;
+                    headerToInject: string;
+                }
+
+                let units: LoadableUnit[] = [];
+
+                if (indexData.book && Array.isArray(indexData.book)) {
+                    // HIERARCHICAL MODE
+                    indexData.book.forEach((act: any) => {
+                        let header = '';
+                        // Inject Act header on the first segment of the act
+                        if (act.act) header += `# ${act.act}\n\n`;
+
+                        act.chapters.forEach((chap: any, chapIndex: number) => {
+                            // If this is the start of a chapter, add chapter header
+                            // If it's the very first chapter of the act, append to act header
+                            // otherwise standalone.
+                            let chapHeader = '';
+                            if (chap.chapter) chapHeader = `## ${chap.chapter}\n\n`;
+
+                            // Determine where to attach headers
+                            // Logic: The headers should be prepended to the content of the FIRST segment of this block
+
+                            chap.segments.forEach((seg: any, segIndex: number) => {
+                                let segmentHeader = '';
+
+                                // Add Act header only on very first segment of Act
+                                if (chapIndex === 0 && segIndex === 0) {
+                                    segmentHeader += header;
+                                }
+
+                                // Add Chapter header on first segment of Chapter
+                                if (segIndex === 0) {
+                                    segmentHeader += chapHeader;
+                                }
+
+                                // Add Segment header if valid (not containing *** or empty)
+                                // "Si tiene nombre pero si tiene *** no pintarlo" (If it has name but if it has *** do not paint it)
+                                const segName = seg.segment || '';
+                                const isHidden = segName.includes('***') || segName.trim() === '';
+
+                                if (!isHidden && segName) {
+                                    segmentHeader += `### ${segName}\n\n`;
+                                }
+
+                                units.push({
+                                    file: seg.file,
+                                    headerToInject: segmentHeader
+                                });
+                            });
+                        });
+                    });
+                } else if (indexData.chapters && Array.isArray(indexData.chapters)) {
+                    // FLAT MODE (Legacy / Fallback)
+                    indexData.chapters.forEach((chapter: any) => {
+                        let header = '';
+                        if (chapter.act) header += `# ${chapter.act}\n\n`;
+                        if (chapter.chapter) header += `## ${chapter.chapter}\n\n`;
+                        if (chapter.segment && !chapter.segment.includes('***')) header += `### ${chapter.segment}\n\n`;
+
+                        // Fallback for purely flat old files without act/chap fields
+                        if (!header && chapter.title) {
+                            header = `# ${chapter.title}\n\n`;
+                        }
+
+                        units.push({
+                            file: chapter.file,
+                            headerToInject: header
+                        });
+                    });
+                }
+
+                const blockPromises = units.map(unit => {
+                    const safePath = unit.file.split('/').map(part => encodeURIComponent(part)).join('/');
                     return fetch(`${basePath}/${safePath}`).then(async res => {
-                        if (!res.ok) throw new Error(`Failed to load ${chapter.file}`);
-                        return res.text();
+                        if (!res.ok) throw new Error(`Failed to load ${unit.file}`);
+                        let text = await res.text();
+
+                        // Strip ALL existing headers at the start of the file (H1-H6)
+                        // to ensure we only show the structured headers from JSON
+                        // We remove the first non-empty sequence of headers
+                        text = text.replace(/^\s*(#{1,6}\s+.*(\r?\n|\r))+/g, '');
+
+                        return unit.headerToInject + text;
                     });
                 });
 
-                const chapterContents = await Promise.all(chapterPromises);
+                const chapterContents = await Promise.all(blockPromises);
                 const fullMarkdown = chapterContents.join('\n\n---\n\n');
                 const fullHtml = await marked.parse(fullMarkdown);
 

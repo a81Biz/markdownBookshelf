@@ -1,246 +1,368 @@
 ﻿{
-    "title":  "El Sol Llegó Tarde",
-    "author":  "Alberto Martínez",
-    "chapters":  [
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE I, CAPÍTULO 1, SEGMENTO 1 (APERTURA)",
-                         "file":  "md/bloque-i-capitulo-1-segmento-1.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE I, CAPÍTULO 1, SEGMENTO 2 (CLÍMAX)",
-                         "file":  "md/bloque-i-capitulo-1-segmento-2.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE I, CAPÍTULO 1, SEGMENTO 3 (CIERRE DE CAPÍTULO)",
-                         "file":  "md/bloque-i-capitulo-1-segmento-3.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE I, CAPÍTULO 2, SEGMENTO 1 (APERTURA)",
-                         "file":  "md/bloque-i-capitulo-2-segmento-1.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE I, CAPÍTULO 2, SEGMENTO 2 (CLÍMAX)",
-                         "file":  "md/bloque-i-capitulo-2-segmento-2.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE I, CAPÍTULO 2, SEGMENTO 3 (CIERRE)",
-                         "file":  "md/bloque-i-capitulo-2-segmento-3.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE I, CAPÍTULO 3, SEGMENTO 1 (APERTURA)",
-                         "file":  "md/bloque-i-capitulo-3-segmento-1.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE I, CAPÍTULO 3, SEGMENTO 2 (CLÍMAX)",
-                         "file":  "md/bloque-i-capitulo-3-segmento-2.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE I, CAPÍTULO 3, SEGMENTO 3 (CIERRE DE CAPÍTULO)",
-                         "file":  "md/bloque-i-capitulo-3-segmento-3.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE II, CAPÍTULO 4, SEGMENTO 1 (APERTURA)",
-                         "file":  "md/bloque-ii-capitulo-4-segmento-1.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE II, CAPÍTULO 4, SEGMENTO 2 (CLÍMAX)",
-                         "file":  "md/bloque-ii-capitulo-4-segmento-2.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE II, CAPÍTULO 4, SEGMENTO 3 (CIERRE DE CAPÍTULO)",
-                         "file":  "md/bloque-ii-capitulo-4-segmento-3.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE II, CAPÍTULO 5.5, SEGMENTO 1 (APERTURA DIPLOMÁTICA)",
-                         "file":  "md/bloque-ii-capitulo-5-5-segmento-1.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE II, CAPÍTULO 5.5, SEGMENTO 2 (RUPTURA DEL DIÁLOGO)",
-                         "file":  "md/bloque-ii-capitulo-5-5-segmento-2.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE II, CAPÍTULO 5.5, SEGMENTO 3 (CLÍMAX / CIERRE)",
-                         "file":  "md/bloque-ii-capitulo-5-5-segmento-3.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE II, CAPÍTULO 5, SEGMENTO 1 (APERTURA)",
-                         "file":  "md/bloque-ii-capitulo-5-segmento-1.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE II, CAPÍTULO 5, SEGMENTO 2 (CLÍMAX)",
-                         "file":  "md/bloque-ii-capitulo-5-segmento-2.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE II, CAPÍTULO 5, SEGMENTO 3 (CIERRE)",
-                         "file":  "md/bloque-ii-capitulo-5-segmento-3.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE II, CAPÍTULO 6, SEGMENTO 1 (APERTURA)",
-                         "file":  "md/bloque-ii-capitulo-6-segmento-1.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE II, CAPÍTULO 6, SEGMENTO 2 (DESARROLLO)",
-                         "file":  "md/bloque-ii-capitulo-6-segmento-2.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE II, CAPÍTULO 6, SEGMENTO 3 (CLÍMAX / CIERRE)",
-                         "file":  "md/bloque-ii-capitulo-6-segmento-3.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE III, CAPÍTULO 7, SEGMENTO 1 (APERTURA: ANOMALÍA)",
-                         "file":  "md/bloque-iii-capitulo-7-segmento-1.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE II, CAPÍTULO 7, SEGMENTO 2 (DESARROLLO: COMPRENSIÓN)",
-                         "file":  "md/bloque-iii-capitulo-7-segmento-2.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE III, CAPÍTULO 7, SEGMENTO 3 (CLÍMAX / CIERRE)",
-                         "file":  "md/bloque-iii-capitulo-7-segmento-3.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE III, CAPÍTULO 8, SEGMENTO 1 (APERTURA: PERSISTENCIA)",
-                         "file":  "md/bloque-iii-capitulo-8-segmento-1.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE III, CAPÍTULO 8, SEGMENTO 2 (DESARROLLO: DETERIORO)",
-                         "file":  "md/bloque-iii-capitulo-8-segmento-2.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE III, CAPÍTULO 8, SEGMENTO 3 (CLÍMAX / CIERRE: PRESIÓN)",
-                         "file":  "md/bloque-iii-capitulo-8-segmento-3.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE III, CAPÍTULO 9, SEGMENTO 1 (APERTURA)",
-                         "file":  "md/bloque-iii-capitulo-9-segmento-1.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE III, CAPÍTULO 9, SEGMENTO 2 (CLÍMAX DEL CAPÍTULO)",
-                         "file":  "md/bloque-iii-capitulo-9-segmento-2.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE III, CAPÍTULO 9, SEGMENTO 3 (CIERRE: LA RENUNCIA DEL TESTIGO)",
-                         "file":  "md/bloque-iii-capitulo-9-segmento-3.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE III, CAPÍTULO 10, SEGMENTO 1 (APERTURA)",
-                         "file":  "md/bloque-iii-capitulo-10-segmento-1.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE IV, CAPÍTULO 10, SEGMENTO 2 (DESARROLLO)",
-                         "file":  "md/bloque-iv-capitulo-10-segmento-2.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE IV, CAPÍTULO 10, SEGMENTO 3 (CLÍMAX / CIERRE: LA PROXIMIDAD DE LO EXTRAÑO)",
-                         "file":  "md/bloque-iv-capitulo-10-segmento-3.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE IV, CAPÍTULO 11, SEGMENTO 1 (APERTURA)",
-                         "file":  "md/bloque-iv-capitulo-11-segmento-1.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE IV, CAPÍTULO 11, SEGMENTO 2 (CLÍMAX)",
-                         "file":  "md/bloque-iv-capitulo-11-segmento-2.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE IV, CAPÍTULO 11, SEGMENTO 3 (CLÍMAX / CIERRE)",
-                         "file":  "md/bloque-iv-capitulo-11-segmento-3.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE V, CAPÍTULO 12, SEGMENTO 1 (APERTURA)",
-                         "file":  "md/bloque-v-capitulo-12-segmento-1.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE V, CAPÍTULO 12, SEGMENTO 2 (CLÍMAX)",
-                         "file":  "md/bloque-v-capitulo-12-segmento-2.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE V, CAPÍTULO 12, SEGMENTO 3 (CIERRE: LA ILUSIÓN DE LA SIMETRÍA)",
-                         "file":  "md/bloque-v-capitulo-12-segmento-3.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE V, CAPÍTULO 13, SEGMENTO 1 (APERTURA)",
-                         "file":  "md/bloque-v-capitulo-13-segmento-1.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE V, CAPÍTULO 13, SEGMENTO 2 (CLÍMAX)",
-                         "file":  "md/bloque-v-capitulo-13-segmento-2.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE V, CAPÍTULO 13, SEGMENTO 3 (CLÍMAX / CIERRE: LA SINFONÍA DE LA RUINA)",
-                         "file":  "md/bloque-v-capitulo-13-segmento-3.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE V, CAPÍTULO 14, SEGMENTO 1 (APERTURA)",
-                         "file":  "md/bloque-v-capitulo-14-segmento-1.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE V, CAPÍTULO 14, SEGMENTO 2 (CLÍMAX DEL CAPÍTULO)",
-                         "file":  "md/bloque-v-capitulo-14-segmento-2.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE V, CAPÍTULO 14, SEGMENTO 3 (CIERRE DEL CAPÍTULO)",
-                         "file":  "md/bloque-v-capitulo-14-segmento-3.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE VI, CAPÍTULO 15, SEGMENTO 1 (APERTURA)",
-                         "file":  "md/bloque-vi-capitulo-15-segmento-1.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE VI, CAPÍTULO 15, SEGMENTO 2 (CLÍMAX)",
-                         "file":  "md/bloque-vi-capitulo-15-segmento-2.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE VI, CAPÍTULO 15, SEGMENTO 3 (CIERRE)",
-                         "file":  "md/bloque-vi-capitulo-15-segmento-3.md"
-                     },
-                     {
-                         "title":  "BLOQUE VI — UNIÓN + BATALLA ÉPICA",
-                         "file":  "md/bloque-vi-capitulo-16-segmento-1.md"
-                     },
-                     {
-                         "title":  "TEXTO NARRATIVO: BLOQUE VI, CAPÍTULO 16, SEGMENTO 2 (FASE 1)",
-                         "file":  "md/bloque-vi-capitulo-16-segmento-2.md"
-                     },
-                     {
-                         "title":  "BLOQUE VI — UNIÓN + BATALLA ÉPICA",
-                         "file":  "md/bloque-vi-capitulo-16-segmento-3.md"
-                     },
-                     {
-                         "title":  "BLOQUE VI — UNIÓN + BATALLA ÉPICA",
-                         "file":  "md/bloque-vi-capitulo-16-segmento-4.md"
-                     },
-                     {
-                         "title":  "BLOQUE VI — UNIÓN + BATALLA ÉPICA",
-                         "file":  "md/bloque-vi-capitulo-16-segmento-5.md"
-                     },
-                     {
-                         "title":  "bloque-vi-capitulo-16-segmento-6.md",
-                         "file":  "md/bloque-vi-capitulo-16-segmento-6.md"
-                     },
-                     {
-                         "title":  "bloque-vii-capitulo-17-segmento-1.md",
-                         "file":  "md/bloque-vii-capitulo-17-segmento-1.md"
-                     },
-                     {
-                         "title":  "bloque-vii-capitulo-17-segmento-2.md",
-                         "file":  "md/bloque-vii-capitulo-17-segmento-2.md"
-                     },
-                     {
-                         "title":  "bloque-vii-capitulo-17-segmento-3.md",
-                         "file":  "md/bloque-vii-capitulo-17-segmento-3.md"
-                     },
-                     {
-                         "title":  "bloque-vii-capitulo-18-segmento-1.md",
-                         "file":  "md/bloque-vii-capitulo-18-segmento-1.md"
-                     },
-                     {
-                         "title":  "bloque-vii-capitulo-18-segmento-2.md",
-                         "file":  "md/bloque-vii-capitulo-18-segmento-2.md"
-                     },
-                     {
-                         "title":  "bloque-vii-capitulo-18-segmento-3.md",
-                         "file":  "md/bloque-vii-capitulo-18-segmento-3.md"
-                     }
-                 ]
+    "title": "El Sol Llegó Tarde",
+    "author": "Alberto Martínez",
+    "book": [
+        {
+            "act": "El Escritorio de Obsidiana",
+            "chapters": [
+                {
+                    "chapter": "La declaración de nulidad, Majestad",
+                    "segments": [
+                        {
+                            "segment": "***",
+                            "file": "md/001_BloqueI_Cap1_Seg1.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/002_BloqueI_Cap1_Seg2.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/003_BloqueI_Cap1_Seg3.md"
+                        }
+                    ]
+                },
+                {
+                    "chapter": "Ese azul eléctrico, vibrante y carente de calidez",
+                    "segments": [
+                        {
+                            "segment": "***",
+                            "file": "md/004_BloqueI_Cap2_Seg1.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/005_BloqueI_Cap2_Seg2.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/006_BloqueI_Cap2_Seg3.md"
+                        }
+                    ]
+                },
+                {
+                    "chapter": "¿Qué comunicado?",
+                    "segments": [
+                        {
+                            "segment": "***",
+                            "file": "md/007_BloqueI_Cap3_Seg1.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/008_BloqueI_Cap3_Seg2.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/009_BloqueI_Cap3_Seg3.md"
+                        }
+                    ]
+                },
+                {
+                    "chapter": "Activo 7-Beta, colóquese en el punto de anclaje",
+                    "segments": [
+                        {
+                            "segment": "***",
+                            "file": "md/010_BloqueII_Cap4_Seg1.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/011_BloqueII_Cap4_Seg2.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/012_BloqueII_Cap4_Seg3.md"
+                        }
+                    ]
+                },
+                {
+                    "chapter": "Los Censores de la Raíz",
+                    "segments": [
+                        {
+                            "segment": "***",
+                            "file": "md/013_BloqueII_Cap5_Seg1.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/014_BloqueII_Cap5_Seg2.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/015_BloqueII_Cap5_Seg3.md"
+                        }
+                    ]
+                },
+                {
+                    "chapter": "Hablemos entonces de fe",
+                    "segments": [
+                        {
+                            "segment": "Diplomática",
+                            "file": "md/016_BloqueII_Cap5.5_Seg1.md"
+                        },
+                        {
+                            "segment": "Ruptura Del Diálogo",
+                            "file": "md/017_BloqueII_Cap5.5_Seg2.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/018_BloqueII_Cap5.5_Seg3.md"
+                        }
+                    ]
+                },
+                {
+                    "chapter": "No podemos seguir así, Cedric",
+                    "segments": [
+                        {
+                            "segment": "***",
+                            "file": "md/019_BloqueII_Cap6_Seg1.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/020_BloqueII_Cap6_Seg2.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/021_BloqueII_Cap6_Seg3.md"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "act": "Acto: La Consola de Mando",
+            "chapters": [
+                {
+                    "chapter": "Princesa, es hora de la inspección de integridad",
+                    "segments": [
+                        {
+                            "segment": "Anomalía",
+                            "file": "md/022_BloqueIII_Cap7_Seg1.md"
+                        },
+                        {
+                            "segment": "Comprensión",
+                            "file": "md/023_BloqueIII_Cap7_Seg2.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/024_BloqueIII_Cap7_Seg3.md"
+                        }
+                    ]
+                },
+                {
+                    "chapter": "Ese silencio asimétrico que se había convertido en su secreto más pesado",
+                    "segments": [
+                        {
+                            "segment": "Persistencia",
+                            "file": "md/025_BloqueIII_Cap8_Seg1.md"
+                        },
+                        {
+                            "segment": "Deterioro",
+                            "file": "md/026_BloqueIII_Cap8_Seg2.md"
+                        },
+                        {
+                            "segment": "Presión",
+                            "file": "md/027_BloqueIII_Cap8_Seg3.md"
+                        }
+                    ]
+                },
+                {
+                    "chapter": "Su propia sangre, en el caso de Aldric",
+                    "segments": [
+                        {
+                            "segment": "***",
+                            "file": "md/028_BloqueIII_Cap9_Seg1.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/029_BloqueIII_Cap9_Seg2.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/030_BloqueIII_Cap9_Seg3.md"
+                        }
+                    ]
+                },
+                {
+                    "chapter": "La rejilla del intercomunicador, la lámpara de estática, el borde de la mesa",
+                    "segments": [
+                        {
+                            "segment": "***",
+                            "file": "md/031_BloqueIV_Cap10_Seg1.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/032_BloqueIV_Cap10_Seg1.5.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/033_BloqueIV_Cap10_Seg2.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/034_BloqueIV_Cap10_Seg3.md"
+                        }
+                    ]
+                },
+                {
+                    "chapter": "Señor, el Rey Aldric exige el informe de cierre para el Consejo",
+                    "segments": [
+                        {
+                            "segment": "***",
+                            "file": "md/035_BloqueIV_Cap11_Seg1.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/036_BloqueIV_Cap11_Seg2.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/037_BloqueIV_Cap11_Seg2.5.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/038_BloqueIV_Cap11_Seg3.md"
+                        }
+                    ]
+                },
+                {
+                    "chapter": "Si hacemos eso, Finnan, estaremos validando la visión de Aldric",
+                    "segments": [
+                        {
+                            "segment": "***",
+                            "file": "md/039_BloqueV_Cap12_Seg1.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/040_BloqueV_Cap12_Seg2.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/041_BloqueV_Cap12_Seg3.md"
+                        }
+                    ]
+                },
+                {
+                    "chapter": "Cedric, la resonancia no se está disipando",
+                    "segments": [
+                        {
+                            "segment": "***",
+                            "file": "md/042_BloqueV_Cap13_Seg1.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/043_BloqueV_Cap13_Seg2.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/044_BloqueV_Cap13_Seg3.md"
+                        }
+                    ]
+                },
+                {
+                    "chapter": "Esa luz que Isabel seguía pagando con su propia estabilidad",
+                    "segments": [
+                        {
+                            "segment": "***",
+                            "file": "md/045_BloqueV_Cap14_Seg1.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/046_BloqueV_Cap14_Seg2.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/047_BloqueV_Cap14_Seg3.md"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "act": "Acto: La Plataforma de Inducción",
+            "chapters": [
+                {
+                    "chapter": "¿Crees que tus tratados nos servirán de algo ahí abajo, Finnan?",
+                    "segments": [
+                        {
+                            "segment": "***",
+                            "file": "md/048_BloqueVI_Cap15_Seg1.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/049_BloqueVI_Cap15_Seg2.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/050_BloqueVI_Cap15_Seg3.md"
+                        }
+                    ]
+                },
+                {
+                    "chapter": "Estamos a cien metros de la plataforma de resolución",
+                    "segments": [
+                        {
+                            "segment": "***",
+                            "file": "md/051_BloqueVI_Cap16_Seg1.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/052_BloqueVI_Cap16_Seg2.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/053_BloqueVI_Cap16_Seg3.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/054_BloqueVI_Cap16_Seg4.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/055_BloqueVI_Cap16_Seg5.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/056_BloqueVI_Cap16_Seg6.md"
+                        }
+                    ]
+                },
+                {
+                    "chapter": "La sombra de la montaña",
+                    "segments": [
+                        {
+                            "segment": "***",
+                            "file": "md/057_BloqueVII_Cap17_Seg1.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/058_BloqueVII_Cap17_Seg2.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/059_BloqueVII_Cap17_Seg3.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/060_BloqueVII_Cap17_Seg4.md"
+                        }
+                    ]
+                },
+                {
+                    "chapter": "Ella no está en tus máquinas, Cedric",
+                    "segments": [
+                        {
+                            "segment": "***",
+                            "file": "md/061_BloqueVII_Cap18_Seg1.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/062_BloqueVII_Cap18_Seg2.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/063_BloqueVII_Cap18_Seg3.md"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
