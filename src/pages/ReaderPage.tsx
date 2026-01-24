@@ -226,7 +226,7 @@ const ReaderPage = () => {
 
     const themeClasses: Record<string, string> = {
         light: 'bg-background-light text-slate-900',
-        sepia: 'bg-sepia-bg text-sepia-text sepia',
+        sepia: 'bg-sepia-bg text-sepia-text',
         night: 'bg-background-dark text-slate-300',
     };
 
@@ -273,7 +273,7 @@ const ReaderPage = () => {
                     </div>
                 </div>
             ) : (
-                <main className="flex-1 pt-24 pb-40 px-4 flex justify-center">
+                <main className={`flex-1 pt-24 pb-40 px-4 flex justify-center ${theme === 'sepia' ? 'sepia' : ''}`}>
                     <article className="prose prose-xl dark:prose-invert max-w-[720px] w-full space-y-2 text-[1.15rem] leading-[1.8]">
                         {blocks.map((block, index) => {
                             const isActive = index === currentBlockIndex;
@@ -296,7 +296,7 @@ const ReaderPage = () => {
 
             {/* Media Player Controls */}
             {!isLoading && (
-                <div className="fixed bottom-8 left-1/2 -translate-x-1/2 z-50">
+                <div className={`fixed bottom-8 left-1/2 -translate-x-1/2 z-50 ${theme === 'sepia' ? 'sepia' : ''}`}>
                     <div className="flex items-center gap-2 p-2 rounded-full bg-white dark:bg-slate-800 shadow-2xl border border-slate-200 dark:border-slate-700">
                         <button onClick={handleStop} className="size-10 flex items-center justify-center rounded-full hover:bg-slate-100 dark:hover:bg-slate-700 text-slate-500" title="Stop">
                             <span className="material-symbols-outlined">stop</span>
