@@ -1,0 +1,42 @@
+CAPÍTULO 8, SEGMENTO 2: EL GRANO DE LA IMAGEN Y EL CRUJIDO DEL CRISTAL
+La casa no era solo una prisión; era un vertedero de memorias que no le pertenecían, o que se negaban a reconocerlo. El aire en el piso superior estaba estancado, una masa espesa de polvo en suspensión que sabía a papel viejo y a la sequedad rancia de los armarios cerrados durante décadas. El hombre se movía por el pasillo con una agitación que le hacía vibrar los huesos del tórax contra su piel grisácea. Ya no era el metrónomo de la vigilancia; era una aguja desmagnetizada buscando un norte que el blanco absoluto le había extirpado. Sus pies de ceniza no desplazaban el polvo, pero sus manos, de dedos largos y uñas con el tinte violáceo de la muerte persistente, buscaban en las grietas de la madera un relieve que no fuera el de su propia cicatriz.
+
+La niña estaba en el salón, dos pisos más abajo. El hombre podía oírla: el ras-ras de sus lápices sobre el papel y el tarareo monótono de una canción sin letra. Era un sonido de ancla, un recordatorio de su contrato biológico. Pero el zumbido en sus oídos —esa estática de radio que se alimentaba de su amnesia— era hoy un rugido de marea alta. Le decía que el tiempo se estaba agotando, que la niña crecía y que él se desvanecería en la mancha gris de sus dibujos si no encontraba pronto un rostro que reclamar como suyo.
+
+Entró en un cuarto trastero que olía a naftalina y a cuero podrido. Era un espacio pequeño, asfixiado por cajas de cartón que se deshacían al tacto como piel de leproso. En una esquina, bajo una pila de mantas raídas que exhalaban un vaho de humedad antigua, encontró una caja de puros de madera de cedro. El olor del tabaco viejo le golpeó las fosas nasales, provocándole un hormigueo eléctrico en las encías, una reacción biológica de un fumador que ya no tenía pulmones para el humo. Sus dedos de cera abrieron la tapa con un crujido seco de bisagras oxidadas.
+
+Dentro, entre botones sueltos y llaves que ya no abrían nada, había una fotografía.
+
+El hombre sintió un nudo en la garganta, una masa de fibras de ansiedad que le impedía cualquier intento de deglución innecesaria. Agarró el papel fotográfico. Estaba amarillento, con los bordes carcomidos por la plata y el tiempo. En la imagen, un hombre joven, de facciones borrosas por el grano de la película, sonreía frente a una puerta roja. La misma puerta roja que él había visto en su excursión a la calle. El corazón que no tenía pareció darle un golpe seco contra el esternón, una vibración de calcio que le recorrió los brazos hasta las puntas de los dedos.
+
+—Soy yo —masculló. Su voz, un roce de lijas oxidadas, fue un ruido intruso en la habitación muerta.
+
+Se hundió en la imagen. Buscó en la mancha de los ojos del hombre de la foto un rastro de su propia desesperación. Quería arrancarle el nombre al papel, quería que la tinta le gritara quién era. La obsesión se convirtió en una lente de aumento que borró todo lo demás. El salón, la niña, el peligro de las esquinas... todo desapareció frente a la urgencia de reclamar ese trozo de pasado. Se rascó la cicatriz del vientre con una saña ciega, sus uñas dejando surcos rojos sobre la piel gris, buscando en el dolor físico la confirmación de que él y el hombre de la puerta roja eran la misma materia.
+
+Abajo, el sonido cambió.
+
+El ras-ras de los lápices se detuvo. El hombre lo registró en una capa periférica de su conciencia, pero no se movió. Su voluntad estaba encadenada a la fotografía. Oyó el arrastrar de una silla, el sonido de los pies de la niña golpeando el suelo de madera. Ella se estaba subiendo a algo. El instinto de guardián le envió una señal de alerta, una pulsación eléctrica en la nuca que le decía que el estante de los libros, ese mueble pesado y mal anclado, estaba en la trayectoria de la curiosidad de la pequeña.
+
+—Un segundo más —se dijo, su mente egoísta devorando cada detalle del fondo de la foto—. Solo un detalle más.
+
+Vio que en la solapa de la chaqueta del hombre de la foto había un pin pequeño, una forma metálica que brillaba bajo el sol de aquel día perdido. Intentó enfocar, sus ojos irritados y secos quemándole en las cuencas. El zumbido en sus oídos se volvió insoportable, una frecuencia de dolor que le impedía escuchar el mundo real. Estaba tan cerca. Estaba a punto de recordar el tacto de esa chaqueta, el peso de ese pin, el nombre de la calle de la puerta roja.
+
+Entonces, el silencio del salón se rompió.
+
+No fue un grito, fue un crujido de madera astillándose y un golpe seco, sordo, de carne chocando contra el suelo, seguido instantáneamente por el estallido de un cristal. El sonido de un jarrón de vidrio pesado reventando contra el parqué.
+
+El hombre soltó la fotografía. El papel amarillento planeó por el aire del trastero como una hoja muerta. Bajó las escaleras en una ráfaga de sombras, sus huesos chasqueando con una violencia que amenazaba con deshacer su estructura de ceniza. Cruzó el salón en un parpadeo de estática gris.
+
+La niña estaba en el suelo, ovillada sobre sí misma. El estante no se había caído del todo, pero el jarrón de cristal que descansaba en la parte superior se había precipitado sobre ella al intentar alcanzar un libro. Había sangre. No mucha, pero el rojo era tan intenso contra la piel pálida de la niña que al hombre le dolió en la médula. Un fragmento de vidrio le había cortado el antebrazo y una mancha morada empezaba a florecer en su frente.
+
+La niña lloraba. Era un llanto ahogado, de sorpresa y dolor, un sonido que le serraba los nervios al hombre. Él se arrodilló a su lado, sus manos grises temblando sobre la herida. Quiso tocarla, quiso absorber el dolor, pero sus dedos de cera solo se quedaron a milímetros de la piel rosada. Sintió un nudo de culpa vicaria, una presión en los pulmones que le obligaba a abrir la boca buscando un aire que no llegaba. Había fallado. El escudo de ceniza se había agrietado por mirar un papel viejo. El guardián absoluto se había revelado como un parásito de su propia identidad.
+
+La madre entró en la habitación, atraída por el estruendo. Soltó un grito de espanto y corrió hacia la niña, apartando la mancha gris que era el hombre con una indiferencia que dolió más que un golpe físico. El hombre se quedó allí, agazapado en la sombra del mueble que él no había sujetado. Observó cómo la madre limpiaba la sangre, cómo abrazaba a la niña, cómo la protegía de una forma que él, en su egoísmo espectral, no había sido capaz de hacer.
+
+Sintió una náusea profunda, una bilis espiritual que le llenaba la boca de un sabor a metal y ozono rancio. Se miró las manos y las encontró sucias de un polvo que no era de este mundo. La hipótesis salvadora —la idea de que era un padre amoroso— se desmoronaba bajo el peso de la evidencia. No era un padre; era un hombre obsesionado con su propio cadáver, un mirón que usaba a la niña como ancla para su propia investigación. El vínculo afectivo, que él creía puro, acababa de ser manchado por su primer fallo activo.
+
+Se rascó la cicatriz del vientre, sintiendo el relieve rugoso como un insulto. El dolor ya no le daba respuestas, solo le recordaba su traición. Miró hacia arriba, hacia el techo que lo separaba de la fotografía en el trastero. El deseo de volver a subir, de recuperar el papel, seguía ahí, latiendo como un absceso en su mente, compitiendo con la angustia de ver a la niña herida. Esa dualidad era su verdadero infierno.
+
+La niña levantó la vista entre los brazos de su madre y, por un segundo, sus ojos se encontraron con la sombra gris en el rincón. No hubo sonrisa esta vez. Solo una mirada de confusión, un rastro de miedo que antes no estaba allí. Ella había sentido su ausencia. El ancla se había aflojado y la pequeña había notado el frío del vacío.
+
+El hombre se encogió sobre sí mismo, deseando volver al blanco absoluto donde no había rostros que buscar ni niñas que proteger. Pero no podía. Estaba atrapado en el nudo de su propio fallo, condenado a observar cómo la sangre de la niña manchaba el suelo que él debía haber mantenido limpio. El clímax del capítulo se cerraba con esta imagen: la madre consolando a la niña en la luz amarillenta del salón, y en la esquina más oscura, un espectro de ceniza llorando lágrimas secas de rabia y egoísmo, con la mente dividida entre la herida de la hija y el grano de una foto que le prometía un nombre a cambio de su alma.

@@ -1,0 +1,39 @@
+### TEXTO NARRATIVO: BLOQUE III, CAPÍTULO 7, SEGMENTO 3 (CLÍMAX / CIERRE)
+
+****
+La calma artificial que Cedric había impuesto en el Nivel Siete se fracturó no con un grito, sino con un pulso de luz roja que barrió la sala de monitoreo como una cuchilla de advertencia. Roland, cuyos ojos ya ardían por la fatiga de procesar los logs de auditoría, se incorporó de golpe cuando la consola principal emitió un chirrido metálico, una señal de que una directiva de nivel superior había puenteado los bloqueos del arquitecto. No era un mensaje de Cedric; era una orden automatizada de la Cancillería, un "Protocolo de Validación de Flujo" activado por la propia red al detectar que el Nivel Siete no estaba entregando la carga prometida para el Desfile de la Victoria. El sistema de Valdoria, en su búsqueda implacable de eficiencia y soluciones de bajo costo, no entendía de "descansos biológicos"; solo entendía de cuotas de energía y de la integridad del activo como una función del rendimiento estatal. Roland observó con horror cómo los brazos mecánicos de la cámara de inducción, situados en el techo de la celda de Isabel, empezaban a desplegarse con un siseo de vapor a alta presión. Eran sondas de descarga profunda, diseñadas para obligar al Sello a liberar energía mediante estímulos de dolor extremo. La orden en la pantalla era inequívoca: *«Oficial de Guardia: proceda a la inmovilización manual del Activo 7-Beta para inserción de sondas. Tiempo para ejecución: 60 segundos. El incumplimiento será procesado como sabotaje de grado dos»*.
+
+****
+Roland evaluó la situación con la rapidez de un veterano de las Guerras de la Raíz. Si no actuaba, las sondas perforarían la piel de Isabel, buscando el contacto directo con el tejido nervioso para extraer cada milivoltio de su sangre, ignorando que ella ya no podía orientarse por el sonido para evitar el impacto. Miró a través del cuarzo: Isabel permanecía de espaldas a los mecanismos descendentes, su cabeza todavía inclinada hacia la izquierda, totalmente ajena al peligro que se cernía sobre su lado sordo. El guardia sintió un nudo de bilis y ozono en la garganta. Cedric le había pedido que vigilara, que mantuviera la "estabilidad", pero esta orden era el clavo final en el ataúd de la humanidad de la princesa.
+
+La lógica del soldado luchó contra el instinto de la carne. Roland sabía que desobedecer una orden directa de la Cancillería, marcada con el sello del Rey Aldric, significaba la muerte civil. Perdería su rango, su autoridad y, probablemente, terminaría en las mismas celdas que custodiaba. Pero al mirar la fragilidad de Isabel, esa "pieza" que el sistema quería exprimir hasta la última gota para un desfile de vanidad, algo en su interior se rompió. Valdoria siempre se había jactado de su arquitectura de control impecable, de sus soluciones escalables para el poder, pero Roland vio en ese momento la fealdad de un sistema que no podía permitirse la piedad.
+
+—No hoy —susurró Roland, y su voz fue un desafío a la maquinaria que lo rodeaba.
+
+Se lanzó hacia la cámara de transferencia, ignorando el aviso de seguridad que parpadeaba en rojo. Su mano derecha, firme y endurecida por años de servicio, activó la apertura de emergencia de la celda. El sistema emitió un zumbido de protesta, registrando su acceso no autorizado, pero Roland ya estaba dentro. El aire en la celda era una masa de estática que le erizó el vello de los brazos y le hizo castañear los dientes. Las sondas estaban a menos de un metro de la espalda de Isabel.
+
+****
+Isabel ni siquiera se giró cuando él entró; el silencio en su oído derecho era una barrera absoluta contra el estruendo de los pistones. Roland no perdió tiempo en explicaciones. Con una proeza de fuerza física que puso a prueba las juntas de su armadura, se interpuso entre Isabel y los mecanismos de inducción. En el momento exacto en que las sondas se dispararon para buscar el anclaje, Roland desenvainó su espada de la Guardia de Hierro y la utilizó no para atacar, sino como un pararrayos de acero.
+
+El impacto fue brutal. La descarga de energía de las sondas golpeó la hoja de la espada, viajando instantáneamente a través del brazo de Roland. El guardia emitió un rugido de agonía cuando el flujo de estática le recorrió los nervios, quemando el cuero de sus guantes y lanzando chispas violetas que iluminaron la celda con el resplandor de una ejecución. Sus músculos se contrajeron violentamente, pero no soltó el arma. Con un grito que desgarró el aire ionizado, Roland empujó contra los brazos mecánicos, forzando la palanca de los engranajes hasta que el metal crujió y el sistema de vapor estalló en una nube de vapor ácido.
+
+> **AVISO DE SEGURIDAD DEL SISTEMA — NIVEL SIETE**
+> * **Evento**: Interferencia física detectada en el Protocolo de Validación.
+> * **Sujeto**: Oficial Roland (ID: 449-G.H.).
+> * **Estado**: Desobediencia de directiva de Trono. Autoridad de mando: **REVOCADA**.
+> * **Sanción**: Marcado institucional permanente. Prohibido el acceso a niveles superiores.
+> 
+> 
+
+Isabel, finalmente consciente de la violencia a su alrededor al sentir la vibración del suelo, se giró con los ojos desorbitados. Vio a Roland de rodillas, con el brazo derecho echando humo y la espada fundida contra el mecanismo destruido. Por un microsegundo, sus miradas se encontraron, y Roland vio en ella no al activo, sino a la mujer a la que acababa de entregarle su vida. El sistema lo había marcado; su insignia de oficial, antes brillante, ahora parpadeaba con una luz roja mortecina que indicaba su caída en la nulidad administrativa.
+
+****
+El silencio regresó a la celda, pero era un silencio herido, cargado con el olor a carne quemada y aceite de maquinaria. Roland soltó el pomo de la espada fundida y se sostuvo el brazo herido, sintiendo cómo la pérdida de su estatus se manifestaba en una debilidad física que le recorría el espíritu. Había salvado a Isabel de la purga, pero a cambio, se había convertido en un paria dentro de su propio reino. El sistema de Valdoria no perdonaba la interferencia humana en su arquitectura de poder.
+
+Se levantó con dificultad, evitando mirar hacia la cámara de observación donde sabía que los registros ya habían enviado la notificación de su traición a la oficina de Cedric y a la Cancillería. El conflicto con el arquitecto estaba ahora a la vista de todos. Cedric había intentado proteger a Isabel mediante el aislamiento y la mentira; Roland lo había hecho mediante la sangre y el acero. Dos formas de traición para un mismo sistema corrupto.
+
+—Váyase al rincón, Isabel —dijo Roland, y su voz, aunque quebrada por el dolor, conservaba una autoridad que ya no venía del rango, sino de la proeza—. El sistema enviará refuerzos en el próximo ciclo. He roto la red, pero no he ganado la guerra.
+
+Salió de la celda arrastrando los pies, dejando atrás las ruinas del mecanismo de inducción. Mientras las puertas se cerraban, Roland miró su mano quemada, la huella física de su desobediencia. El Bloque III había alcanzado su clímax interno: la guardia de la carne había fallado a su rey para servir a su propia consciencia. El segmento terminó con Roland en el pasillo, solo y marcado por una luz roja que no se apagaría, consciente de que su destino y el de la princesa estaban ahora unidos por una fractura que ninguna solución de bajo costo podría jamás reparar.
+
+---

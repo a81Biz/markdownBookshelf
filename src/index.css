@@ -1,0 +1,75 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.material-symbols-outlined {
+    font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.fill-icon {
+    font-variation-settings: 'FILL' 1;
+}
+
+.glass-panel {
+    background: rgba(26, 31, 37, 0.7);
+    backdrop-filter: blur(16px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.glass-panel-sepia {
+    background: rgba(244, 236, 216, 0.4);
+    backdrop-filter: blur(12px);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+@keyframes shimmer {
+    0% {
+        background-position: -200% 0;
+    }
+
+    100% {
+        background-position: 200% 0;
+    }
+}
+
+.skeleton-shimmer {
+    background: linear-gradient(90deg, transparent 25%, rgba(255, 255, 255, 0.05) 50%, transparent 75%);
+    background-size: 200% 100%;
+    animation: shimmer 2s infinite linear;
+}
+
+.light .skeleton-shimmer {
+    background: linear-gradient(90deg, transparent 25%, rgba(0, 0, 0, 0.03) 50%, transparent 75%);
+    background-size: 200% 100%;
+}
+
+.sepia .skeleton-shimmer {
+    background: linear-gradient(90deg, transparent 25%, rgba(0, 0, 0, 0.04) 50%, transparent 75%);
+    background-size: 200% 100%;
+}
+
+/* Sepia Theme Prose Overrides */
+.sepia .prose {
+    --tw-prose-body: #1A1A1A;
+    --tw-prose-headings: #1A1A1A;
+    --tw-prose-lead: #1A1A1A;
+    --tw-prose-links: #5F584C;
+    --tw-prose-bold: #1A1A1A;
+    --tw-prose-counters: #5F584C;
+    --tw-prose-bullets: #5F584C;
+    --tw-prose-hr: #5F584C;
+    --tw-prose-quotes: #1A1A1A;
+    --tw-prose-quote-borders: #5F584C;
+    --tw-prose-captions: #5F584C;
+    --tw-prose-code: #1A1A1A;
+    --tw-prose-pre-code: #1A1A1A;
+    --tw-prose-pre-bg: rgba(95, 88, 76, 0.1);
+    --tw-prose-th-borders: #5F584C;
+    --tw-prose-td-borders: #5F584C;
+}

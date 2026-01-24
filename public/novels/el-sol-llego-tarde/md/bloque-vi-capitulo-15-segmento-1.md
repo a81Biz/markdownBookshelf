@@ -1,0 +1,35 @@
+### TEXTO NARRATIVO: BLOQUE VI, CAPÍTULO 15, SEGMENTO 1 (APERTURA)
+
+****
+La Cámara del Alto Consejo, antes un espacio de debates burocráticos y diplomacia de terciopelo, se había transformado en un búnker de guerra donde el aire sabía a ozono, a hierro viejo y a la estática gélida que emanaba de la montaña infectada. La luz del mediodía que solía filtrarse por los ventanales de cuarzo ahora era interceptada por las vetas violetas que recorrían la piedra, proyectando sombras fracturadas sobre el mapa holográfico de Valdoria que Cedric mantenía activo en el centro de la sala. No había sirvientes ni escribas; el silencio solo era roto por el siseo de los colectores de vapor y el latido rítmico de la montaña, un pulso que Isabel, anclada en su plataforma, parecía coordinar con una precisión involuntaria. Cedric permanecía de pie frente a la consola, con los ojos inyectados en sangre y la túnica aún manchada por el hollín del Nivel Diez. A su lado, Finnan observaba el tablero con una quietud depredadora, habiendo abandonado definitivamente su máscara de negociador para abrazar la precisión letal que la proeza en la raíz había revelado semanas atrás. La sensación de "ahora sí" no nacía de la alegría, sino de la alineación forzosa de cinco voluntades que, por primera vez en la historia del reino, habían decidido que el costo humano ya no sería administrado, sino lanzado contra la sombra en un último acto de heroísmo desesperado.
+
+****
+La puerta de bronce se abrió con un estruendo metálico, y Roland entró en la cámara escoltando la plataforma móvil donde Isabel permanecía anclada. El guardia de la carne caminaba con un peso en los hombros que no pertenecía a su armadura de la Guardia de Hierro; sus ojos, fijos en la princesa, reflejaban la angustia de quien sabe que la victoria que buscan no devolverá el equilibrio a la mujer que juró proteger. Tras ellos, una sombra se desprendió de los rincones oscuros del pasillo: Thrain, el enano de las profundidades, entró en el espacio prohibido del palacio real con la misma indiferencia con la que sostenía las vigas del Nivel Diez. Su presencia alteró inmediatamente la acústica de la sala; el zumbido de la montaña pareció suavizarse ante su cercanía, como si la piedra misma reconociera a su verdadero soberano operativo. El Consejo estaba completo.
+
+Cedric activó el protocolo de "Unión Táctica". En el aire ionizado de la cámara, los roles aparecieron proyectados sobre el mapa de los niveles inferiores:
+
+1. **Thrain (Sostén Físico):** El acceso y la resistencia tectónica. Él mantendría la integridad del espacio mientras el Balog intentaba colapsar la montaña.
+2. **Roland (Devastación Frontal):** El muro de hierro. Su función era interceptar cualquier manifestación física de la sombra y proteger el flanco de Isabel con su proeza de desobediencia convertida en combate.
+3. **Finnan (Precisión Letal):** El interruptor místico. Usaría el conocimiento de la Academia Sellada para localizar las fracturas en la forma del Balog y golpearlas con la violencia contenida de su palabra.
+4. **Aelith/Aeolia (Armonía y Contención):** La frecuencia de soporte. Ya no como un canto pasivo, sino como una red de curación y ritmo que mantendría al grupo sincronizado.
+5. **Isabel (Eje Silencioso):** El pararrayos. Su anclaje al Sello permitiría canalizar la energía necesaria para el Protocolo Cero cuando llegara el momento de la resolución final.
+
+—Creemos que todavía podemos ganar —dijo Cedric, y la frase, cargada de esa terquedad vital del Bloque V, resonó en las paredes de granito—. No estamos aquí para negociar con el Balog ni para pedir piedad a la sombra. Estamos aquí para aplicar una solución definitiva. Thrain nos dará el acceso, Roland nos dará el tiempo y Finnan nos dará la apertura. Isabel... Isabel será la luz que consuma el vacío.
+
+Finnan observó a Isabel. La princesa no se movía; su pérdida del equilibrio era total, y el anclaje de conciencia la mantenía en una verticalidad pétrea que resultaba trágicamente elegante. Habían perdido a la Isabel que conocían, pero en su lugar tenían un eje de poder absoluto. La disonancia entre el dolor por su estado y la necesidad estratégica de su poder era la "culpa empática" que unía a los miembros del consejo en una hermandad de pecadores.
+
+****
+El momento de máxima tensión se produjo cuando Thrain, que no había pronunciado palabra alguna desde su aparición, se acercó al mapa holográfico y hundió su mano callosa en la proyección de la luz.
+—La piedra ya no aguanta —dijo el enano, y su voz fue un eco de terremoto en la cámara—. Lo que hay allí abajo ya no está esperando. Ha empezado a beberse la raíz. Si no bajamos ahora, Valdoria se hundirá en el mar antes de que vuestra "unión" termine de ajustar sus capas de hierro.
+
+En ese instante, la montaña respondió con una sacudida violenta que hizo que las lámparas de estática parpadearan con un violeta furioso. El suelo de la cámara crujió, y una fisura de estática plateada recorrió el centro de la mesa del consejo, dividiéndola en dos. No fue una advertencia; fue el inicio del colapso sistémico final. El Consejo se miró entre sí, y la duda desapareció de sus rostros. No había más informes que redactar ni protocolos que debatir. El "ahora sí" se convirtió en una urgencia física.
+
+Isabel levantó la cabeza, y por un microsegundo, la presencia de Aelith iluminó sus ojos con una intensidad que eclipsó la luz de la sala. El zumbido de la montaña se transformó en una sinfonía de guerra. La unión no era una alianza política, era una maquinaria de supervivencia biológica y mística activándose en respuesta a un depredador que ya estaba en la puerta. El clímax del segmento cerró con la imagen de los cinco héroes rodeando el mapa roto, sus sombras proyectadas por la luz del Sello de Isabel, configurando la leyenda que el reino necesitaba para creer que el amanecer era todavía una posibilidad.
+
+****
+Cedric tomó su equipo de mando y señaló hacia el elevador de servicio del Nivel Siete.
+—El tablero está listo. La pieza faltante está en su lugar. Bajamos a la raíz —ordenó, y su voz no vaciló ante el estruendo de la piedra rompiéndose arriba—. No sabemos lo que encontraremos tras el sello de contención, pero sabemos que ninguno de nosotros volverá a ver esta cámara como el hombre que entró hoy.
+
+Roland empujó la plataforma de Isabel, Thrain se colocó a la vanguardia y Finnan revisó los glifos de su túnica con una calma gélida. El grupo abandonó la cámara del Alto Consejo, dejando atrás la Valdoria de los papeles y las mentiras administrativas para entrar en la Valdoria de la sangre y el granito. El segmento terminó con el descenso final iniciado, la esperanza sostenida por la terquedad de los que no saben que ya han perdido a su princesa, pero que están dispuestos a incendiar el mundo para demostrar que su proeza heroica es real. El camino hacia el Capítulo 16 estaba abierto, y el Balog ya sentía la vibración de una unión que no buscaba la paz, sino la resolución definitiva de un sistema que nació corrupto y moriría como una leyenda.
+
+---

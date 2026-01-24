@@ -1,0 +1,234 @@
+﻿{
+    "title":  "Castigo",
+    "author":  "Alberto Martínez",
+    "chapters":  [
+                     {
+                         "title":  "CAPÍTULO 1, SEGMENTO 1.md",
+                         "file":  "md/cap-tulo-1-segmento-1.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 1, SEGMENTO 2.md",
+                         "file":  "md/cap-tulo-1-segmento-2.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 1, SEGMENTO 3.md",
+                         "file":  "md/cap-tulo-1-segmento-3.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 2, SEGMENTO 1.md",
+                         "file":  "md/cap-tulo-2-segmento-1.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 2, SEGMENTO 2.md",
+                         "file":  "md/cap-tulo-2-segmento-2.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 2, SEGMENTO 3.md",
+                         "file":  "md/cap-tulo-2-segmento-3.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 3, SEGMENTO 1.md",
+                         "file":  "md/cap-tulo-3-segmento-1.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 3, SEGMENTO 2.md",
+                         "file":  "md/cap-tulo-3-segmento-2.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 3, SEGMENTO 3.md",
+                         "file":  "md/cap-tulo-3-segmento-3.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 4, SEGMENTO 1.md",
+                         "file":  "md/cap-tulo-4-segmento-1.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 4, SEGMENTO 2.md",
+                         "file":  "md/cap-tulo-4-segmento-2.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 4, SEGMENTO 3.md",
+                         "file":  "md/cap-tulo-4-segmento-3.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 5, SEGMENTO 1.md",
+                         "file":  "md/cap-tulo-5-segmento-1.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 5, SEGMENTO 2.md",
+                         "file":  "md/cap-tulo-5-segmento-2.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 5, SEGMENTO 3.md",
+                         "file":  "md/cap-tulo-5-segmento-3.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 6, SEGMENTO 1.md",
+                         "file":  "md/cap-tulo-6-segmento-1.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 6, SEGMENTO 2.md",
+                         "file":  "md/cap-tulo-6-segmento-2.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 6, SEGMENTO 3.md",
+                         "file":  "md/cap-tulo-6-segmento-3.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 7, SEGMENTO 1.md",
+                         "file":  "md/cap-tulo-7-segmento-1.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 7, SEGMENTO 2.md",
+                         "file":  "md/cap-tulo-7-segmento-2.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 7, SEGMENTO 3.md",
+                         "file":  "md/cap-tulo-7-segmento-3.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 8, SEGMENTO 1.md",
+                         "file":  "md/cap-tulo-8-segmento-1.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 8, SEGMENTO 2.md",
+                         "file":  "md/cap-tulo-8-segmento-2.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 8, SEGMENTO 3.md",
+                         "file":  "md/cap-tulo-8-segmento-3.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 9, SEGMENTO 1.md",
+                         "file":  "md/cap-tulo-9-segmento-1.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 9, SEGMENTO 2.md",
+                         "file":  "md/cap-tulo-9-segmento-2.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 9, SEGMENTO 3.md",
+                         "file":  "md/cap-tulo-9-segmento-3.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 10, SEGMENTO 1.md",
+                         "file":  "md/cap-tulo-10-segmento-1.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 10, SEGMENTO 2.md",
+                         "file":  "md/cap-tulo-10-segmento-2.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 10, SEGMENTO 3.md",
+                         "file":  "md/cap-tulo-10-segmento-3.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 11, SEGMENTO 1.md",
+                         "file":  "md/cap-tulo-11-segmento-1.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 11, SEGMENTO 2.md",
+                         "file":  "md/cap-tulo-11-segmento-2.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 11, SEGMENTO 3.md",
+                         "file":  "md/cap-tulo-11-segmento-3.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 12, SEGMENTO 1.md",
+                         "file":  "md/cap-tulo-12-segmento-1.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 12, SEGMENTO 2.md",
+                         "file":  "md/cap-tulo-12-segmento-2.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 12, SEGMENTO 3.md",
+                         "file":  "md/cap-tulo-12-segmento-3.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 13, SEGMENTO 1.md",
+                         "file":  "md/cap-tulo-13-segmento-1.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 13, SEGMENTO 2.md",
+                         "file":  "md/cap-tulo-13-segmento-2.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 13, SEGMENTO 3.md",
+                         "file":  "md/cap-tulo-13-segmento-3.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 14, SEGMENTO 1.md",
+                         "file":  "md/cap-tulo-14-segmento-1.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 14, SEGMENTO 2.md",
+                         "file":  "md/cap-tulo-14-segmento-2.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 14, SEGMENTO 3.md",
+                         "file":  "md/cap-tulo-14-segmento-3.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 15, SEGMENTO 1.md",
+                         "file":  "md/cap-tulo-15-segmento-1.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 15, SEGMENTO 2.md",
+                         "file":  "md/cap-tulo-15-segmento-2.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 15, SEGMENTO 3.md",
+                         "file":  "md/cap-tulo-15-segmento-3.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 16, SEGMENTO 1.md",
+                         "file":  "md/cap-tulo-16-segmento-1.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 16, SEGMENTO 2.md",
+                         "file":  "md/cap-tulo-16-segmento-2.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 16, SEGMENTO 3.md",
+                         "file":  "md/cap-tulo-16-segmento-3.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 17, SEGMENTO 1.md",
+                         "file":  "md/cap-tulo-17-segmento-1.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 17, SEGMENTO 2.md",
+                         "file":  "md/cap-tulo-17-segmento-2.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 17, SEGMENTO 3.md",
+                         "file":  "md/cap-tulo-17-segmento-3.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 18, SEGMENTO 1.md",
+                         "file":  "md/cap-tulo-18-segmento-1.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 18, SEGMENTO 2.md",
+                         "file":  "md/cap-tulo-18-segmento-2.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 18, SEGMENTO 3.md",
+                         "file":  "md/cap-tulo-18-segmento-3.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 19, SEGMENTO 1.md",
+                         "file":  "md/cap-tulo-19-segmento-1.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 19, SEGMENTO 2.md",
+                         "file":  "md/cap-tulo-19-segmento-2.md"
+                     },
+                     {
+                         "title":  "CAPÍTULO 19, SEGMENTO 3.md",
+                         "file":  "md/cap-tulo-19-segmento-3.md"
+                     }
+                 ]
+}
