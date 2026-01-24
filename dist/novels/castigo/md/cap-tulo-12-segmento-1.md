@@ -1,0 +1,20 @@
+CAPÍTULO 12: LA SOLUBILIDAD DEL ALMA
+La casa ya no recordaba cómo sostenerse. Sin el ancla de la niña, el silencio del pasillo se volvió corrosivo, un ácido invisible que empezó a disolver las costuras de la realidad. El hombre se apoyó contra la pared del dormitorio, pero el papel tapiz, antes rugoso y seco, se sentía ahora como una sustancia viscosa, una membrana de materia orgánica en descomposición que se le pegaba a los dedos de cera. El olor a talco rancio y cera de abejas fue sustituido por un hedor violento a ozono quemado y a ese blanco estéril que él tanto temía.
+
+Notó el primer síntoma en su mano derecha. Al intentar cerrarla, vio con un horror gélido cómo sus dedos ya no terminaban en uñas amoratadas, sino en jirones de una niebla grisácea que se deshilachaba en el aire. No era dolor; era una ausencia vibrante. Sus moléculas estaban perdiendo la memoria de ser un hombre. El sistema, al detectar la ruptura del vínculo moral, parecía estar retirando el permiso de su consistencia física. Se miró el antebrazo y vio pequeños puntos de luz blanca, agujeros en su piel de ceniza a través de los cuales empezaba a verse el vacío infinito que rodeaba la casa.
+
+“Soy una idea que se borra”, pensó, y la idea tuvo el sabor metálico del miedo puro.
+
+Se rascó la cicatriz del vientre con una urgencia demente, pero sus dedos solo encontraron un hueco de estática. El relieve rugoso, su único ancla táctil desde el principio, se estaba desvaneciendo. Sintió un pinchazo de angustia en el pecho, un nudo que ya no estaba hecho de fibras, sino de un vacío que succionaba todo su ser hacia el centro. El cinismo, su vieja armadura, se había vuelto un peso muerto que lo hundía en el suelo. Ya no podía reírse de la nada, porque él mismo se estaba convirtiendo en nada.
+
+La casa crujió con un estruendo de vidrios rotos. En el techo del pasillo apareció una grieta, una línea perfecta de un blanco cegador que empezó a devorar las vigas de madera. No caía escombro; el material simplemente dejaba de existir, sustituido por la pureza aterradora del principio. La "prisión blanda" estaba perdiendo su forma, volviéndose porosa, permitiendo que el exterior reclamara su territorio. El hombre se dio cuenta de que su identidad recuperada —el cobarde Arriaga— no era suficiente para mantenerlo unido; sin el amor que lo anclaba a la niña, era solo un residuo que el universo se disponía a barrer.
+
+Escuchó un sonido lejano: no era el llanto de la niña, sino el silencio absoluto de su ausencia. La correa de sombra que solía quemarle el pecho ya no tiraba de él. El cordón estaba roto, los extremos deshilachados flotando en un mar de ozono. Intentó caminar hacia la puerta, pero sus piernas se sentían como columnas de arena bajo la lluvia. Cada paso era una pérdida; dejaba un rastro de polvo gris sobre la alfombra que desaparecía al instante.
+
+La fragmentación ya no era mental, era atómica.
+
+Se dejó caer de rodillas, o de lo que quedaba de sus rodillas. El zumbido en sus oídos subió a una frecuencia insoportable, un pitido que le serraba el cráneo y le impedía recordar hasta el nombre de la casa. Cerró los ojos y, por un instante, volvió a ver la puerta roja de la fotografía, pero la imagen estaba pixelada, perdiendo el grano, volviéndose blanca. La traición a la niña lo había dejado sin el único espejo que le devolvía una imagen sólida de sí mismo.
+
+—Perdóname —susurró, pero la palabra se desintegró antes de salir de su boca.
+
+El segmento cerraba con el hombre mirando cómo el suelo del dormitorio empezaba a volverse transparente, revelando el abismo blanco que se extendía debajo de sus pies. Estaba solo en el epicentro del derrumbe, un espectro defectuoso que perdía su derecho a la sombra, mientras la casa, su refugio de moho y memorias amargas, se desvanecía como una mentira que por fin ha sido descubierta.

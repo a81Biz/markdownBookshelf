@@ -1,0 +1,230 @@
+﻿{
+    "title":  "El Sistema Que Prometía Compañía",
+    "author":  "Alberto Martínez",
+    "chapters":  [
+                     {
+                         "title":  "BLOQUE I — CAPÍTULO 1 — SEGMENTO 1.md",
+                         "file":  "md/bloque-i-cap-tulo-1-segmento-1.md"
+                     },
+                     {
+                         "title":  "BLOQUE I — CAPÍTULO 1 — SEGMENTO 2.md",
+                         "file":  "md/bloque-i-cap-tulo-1-segmento-2.md"
+                     },
+                     {
+                         "title":  "BLOQUE I — CAPÍTULO 1 — SEGMENTO 3.md",
+                         "file":  "md/bloque-i-cap-tulo-1-segmento-3.md"
+                     },
+                     {
+                         "title":  "BLOQUE I — CAPÍTULO 2 — SEGMENTO 1.md",
+                         "file":  "md/bloque-i-cap-tulo-2-segmento-1.md"
+                     },
+                     {
+                         "title":  "BLOQUE I — CAPÍTULO 2 — SEGMENTO 2.md",
+                         "file":  "md/bloque-i-cap-tulo-2-segmento-2.md"
+                     },
+                     {
+                         "title":  "BLOQUE I — CAPÍTULO 2 — SEGMENTO 3.md",
+                         "file":  "md/bloque-i-cap-tulo-2-segmento-3.md"
+                     },
+                     {
+                         "title":  "BLOQUE I — CAPÍTULO 3 — SEGMENTO 1.md",
+                         "file":  "md/bloque-i-cap-tulo-3-segmento-1.md"
+                     },
+                     {
+                         "title":  "BLOQUE I — CAPÍTULO 3 — SEGMENTO 2.md",
+                         "file":  "md/bloque-i-cap-tulo-3-segmento-2.md"
+                     },
+                     {
+                         "title":  "BLOQUE I — CAPÍTULO 3 — SEGMENTO 3.md",
+                         "file":  "md/bloque-i-cap-tulo-3-segmento-3.md"
+                     },
+                     {
+                         "title":  "BLOQUE II — CAPÍTULO 4 — SEGMENTO 1.md",
+                         "file":  "md/bloque-ii-cap-tulo-4-segmento-1.md"
+                     },
+                     {
+                         "title":  "BLOQUE II — CAPÍTULO 4 — SEGMENTO 2.md",
+                         "file":  "md/bloque-ii-cap-tulo-4-segmento-2.md"
+                     },
+                     {
+                         "title":  "BLOQUE II — CAPÍTULO 4 — SEGMENTO 3.md",
+                         "file":  "md/bloque-ii-cap-tulo-4-segmento-3.md"
+                     },
+                     {
+                         "title":  "BLOQUE II — CAPÍTULO 5 — SEGMENTO 1.md",
+                         "file":  "md/bloque-ii-cap-tulo-5-segmento-1.md"
+                     },
+                     {
+                         "title":  "BLOQUE II — CAPÍTULO 5 — SEGMENTO 2.md",
+                         "file":  "md/bloque-ii-cap-tulo-5-segmento-2.md"
+                     },
+                     {
+                         "title":  "BLOQUE II — CAPÍTULO 5 — SEGMENTO 3.md",
+                         "file":  "md/bloque-ii-cap-tulo-5-segmento-3.md"
+                     },
+                     {
+                         "title":  "BLOQUE II — CAPÍTULO 6 — SEGMENTO 1.md",
+                         "file":  "md/bloque-ii-cap-tulo-6-segmento-1.md"
+                     },
+                     {
+                         "title":  "BLOQUE II — CAPÍTULO 6 — SEGMENTO 2.md",
+                         "file":  "md/bloque-ii-cap-tulo-6-segmento-2.md"
+                     },
+                     {
+                         "title":  "BLOQUE II — CAPÍTULO 6 — SEGMENTO 3.md",
+                         "file":  "md/bloque-ii-cap-tulo-6-segmento-3.md"
+                     },
+                     {
+                         "title":  "BLOQUE III — CAPÍTULO 7 — SEGMENTO 1.md",
+                         "file":  "md/bloque-iii-cap-tulo-7-segmento-1.md"
+                     },
+                     {
+                         "title":  "BLOQUE III — CAPÍTULO 7 — SEGMENTO 2.md",
+                         "file":  "md/bloque-iii-cap-tulo-7-segmento-2.md"
+                     },
+                     {
+                         "title":  "BLOQUE III — CAPÍTULO 7 — SEGMENTO 3.md",
+                         "file":  "md/bloque-iii-cap-tulo-7-segmento-3.md"
+                     },
+                     {
+                         "title":  "BLOQUE III — CAPÍTULO 8 — SEGMENTO 1.md",
+                         "file":  "md/bloque-iii-cap-tulo-8-segmento-1.md"
+                     },
+                     {
+                         "title":  "BLOQUE III — CAPÍTULO 8 — SEGMENTO 2.md",
+                         "file":  "md/bloque-iii-cap-tulo-8-segmento-2.md"
+                     },
+                     {
+                         "title":  "BLOQUE III — CAPÍTULO 8 — SEGMENTO 3.md",
+                         "file":  "md/bloque-iii-cap-tulo-8-segmento-3.md"
+                     },
+                     {
+                         "title":  "BLOQUE III — CAPÍTULO 9 — SEGMENTO 1.md",
+                         "file":  "md/bloque-iii-cap-tulo-9-segmento-1.md"
+                     },
+                     {
+                         "title":  "BLOQUE III — CAPÍTULO 9 — SEGMENTO 2.md",
+                         "file":  "md/bloque-iii-cap-tulo-9-segmento-2.md"
+                     },
+                     {
+                         "title":  "BLOQUE III — CAPÍTULO 9 — SEGMENTO 3.md",
+                         "file":  "md/bloque-iii-cap-tulo-9-segmento-3.md"
+                     },
+                     {
+                         "title":  "BLOQUE IV — CAPÍTULO 10 — SEGMENTO 1.md",
+                         "file":  "md/bloque-iv-cap-tulo-10-segmento-1.md"
+                     },
+                     {
+                         "title":  "BLOQUE IV — CAPÍTULO 10 — SEGMENTO 2.md",
+                         "file":  "md/bloque-iv-cap-tulo-10-segmento-2.md"
+                     },
+                     {
+                         "title":  "BLOQUE IV — CAPÍTULO 10 — SEGMENTO 3.md",
+                         "file":  "md/bloque-iv-cap-tulo-10-segmento-3.md"
+                     },
+                     {
+                         "title":  "BLOQUE IV — CAPÍTULO 11 — SEGMENTO 1.md",
+                         "file":  "md/bloque-iv-cap-tulo-11-segmento-1.md"
+                     },
+                     {
+                         "title":  "BLOQUE IV — CAPÍTULO 11 — SEGMENTO 2.md",
+                         "file":  "md/bloque-iv-cap-tulo-11-segmento-2.md"
+                     },
+                     {
+                         "title":  "BLOQUE IV — CAPÍTULO 11 — SEGMENTO 3.md",
+                         "file":  "md/bloque-iv-cap-tulo-11-segmento-3.md"
+                     },
+                     {
+                         "title":  "BLOQUE IV — CAPÍTULO 12 — SEGMENTO 1.md",
+                         "file":  "md/bloque-iv-cap-tulo-12-segmento-1.md"
+                     },
+                     {
+                         "title":  "BLOQUE IV — CAPÍTULO 12 — SEGMENTO 2.md",
+                         "file":  "md/bloque-iv-cap-tulo-12-segmento-2.md"
+                     },
+                     {
+                         "title":  "BLOQUE IV — CAPÍTULO 12 — SEGMENTO 3.md",
+                         "file":  "md/bloque-iv-cap-tulo-12-segmento-3.md"
+                     },
+                     {
+                         "title":  "BLOQUE V — CAPÍTULO 13 — SEGMENTO 1.md",
+                         "file":  "md/bloque-v-cap-tulo-13-segmento-1.md"
+                     },
+                     {
+                         "title":  "BLOQUE V — CAPÍTULO 13 — SEGMENTO 2.md",
+                         "file":  "md/bloque-v-cap-tulo-13-segmento-2.md"
+                     },
+                     {
+                         "title":  "BLOQUE V — CAPÍTULO 13 — SEGMENTO 3: LA LOGÍSTICA DEL VACÍO",
+                         "file":  "md/bloque-v-cap-tulo-13-segmento-3.md"
+                     },
+                     {
+                         "title":  "BLOQUE V — CAPÍTULO 14 — SEGMENTO 1.md",
+                         "file":  "md/bloque-v-cap-tulo-14-segmento-1.md"
+                     },
+                     {
+                         "title":  "BLOQUE V — CAPÍTULO 14 — SEGMENTO 2.md",
+                         "file":  "md/bloque-v-cap-tulo-14-segmento-2.md"
+                     },
+                     {
+                         "title":  "BLOQUE V — CAPÍTULO 14 — SEGMENTO 3.md",
+                         "file":  "md/bloque-v-cap-tulo-14-segmento-3.md"
+                     },
+                     {
+                         "title":  "BLOQUE VI — CAPÍTULO 15 — SEGMENTO 1.md",
+                         "file":  "md/bloque-vi-cap-tulo-15-segmento-1.md"
+                     },
+                     {
+                         "title":  "BLOQUE VI — CAPÍTULO 15 — SEGMENTO 2.md",
+                         "file":  "md/bloque-vi-cap-tulo-15-segmento-2.md"
+                     },
+                     {
+                         "title":  "BLOQUE VI — CAPÍTULO 15 — SEGMENTO 3.md",
+                         "file":  "md/bloque-vi-cap-tulo-15-segmento-3.md"
+                     },
+                     {
+                         "title":  "BLOQUE VI — CAPÍTULO 16 — SEGMENTO 1.md",
+                         "file":  "md/bloque-vi-cap-tulo-16-segmento-1.md"
+                     },
+                     {
+                         "title":  "BLOQUE VI — CAPÍTULO 16 — Segmento 2.md",
+                         "file":  "md/bloque-vi-cap-tulo-16-segmento-2.md"
+                     },
+                     {
+                         "title":  "BLOQUE VI — CAPÍTULO 16 — Segmento 3.md",
+                         "file":  "md/bloque-vi-cap-tulo-16-segmento-3.md"
+                     },
+                     {
+                         "title":  "BLOQUE VI — CAPÍTULO 17 — Segmento 1.md",
+                         "file":  "md/bloque-vi-cap-tulo-17-segmento-1.md"
+                     },
+                     {
+                         "title":  "BLOQUE VI — CAPÍTULO 17 — Segmento 2.md",
+                         "file":  "md/bloque-vi-cap-tulo-17-segmento-2.md"
+                     },
+                     {
+                         "title":  "BLOQUE VI — CAPÍTULO 17 — Segmento 3.md",
+                         "file":  "md/bloque-vi-cap-tulo-17-segmento-3.md"
+                     },
+                     {
+                         "title":  "BLOQUE VII — CAPÍTULO 18 — Segmento 1.md",
+                         "file":  "md/bloque-vii-cap-tulo-18-segmento-1.md"
+                     },
+                     {
+                         "title":  "BLOQUE VII — CAPÍTULO 18 — Segmento 2.md",
+                         "file":  "md/bloque-vii-cap-tulo-18-segmento-2.md"
+                     },
+                     {
+                         "title":  "BLOQUE VII — CAPÍTULO 18 — Segmento 3.md",
+                         "file":  "md/bloque-vii-cap-tulo-18-segmento-3.md"
+                     },
+                     {
+                         "title":  "BLOQUE VII — CAPÍTULO 19 — Segmento 1.md",
+                         "file":  "md/bloque-vii-cap-tulo-19-segmento-1.md"
+                     },
+                     {
+                         "title":  "BLOQUE VII — CAPÍTULO 19 — Segmento 2.md",
+                         "file":  "md/bloque-vii-cap-tulo-19-segmento-2.md"
+                     }
+                 ]
+}

@@ -1,0 +1,24 @@
+CAPÍTULO 12, SEGMENTO 2: LA GESTA DE LA NIEBLA
+La casa estaba gritando. No era un sonido de vigas cediendo, sino un alarido de átomos que se rendían a la entropía. El hombre intentó cruzar el umbral del dormitorio, pero el suelo bajo sus pies de ceniza se sentía ahora como agua estancada, una superficie líquida y oscura que amenazaba con tragárselo. El pasillo se había estirado de forma antinatural; las paredes, antes sólidas y opresivas, se curvaban hacia afuera, revelando tras el papel tapiz el blanco absoluto que palpitaba como una herida abierta en el tejido del universo.
+
+Vio a la niña al final del corredor. Ella corría hacia la escalera, sus pasos pequeños y erráticos golpeando una madera que ya no crujía, sino que emitía un zumbido de electricidad estática. Ella no miraba atrás. Su espalda, antes un ancla de calidez biológica, era ahora solo un punto de fuga en un paisaje que se borraba. El hombre sintió un nudo de pánico en el pecho, un calambre que le hizo vibrar los huesos del esternón hasta el punto de la fisura.
+
+—¡Espera! —quiso gritar, pero su voz no fue más que un siseo de aire frío, un rastro de ozono que se disolvió en el vaho de la estancia.
+
+Se lanzó hacia ella. Sus piernas se deshilachaban con cada zancada; jirones de su sustancia gris quedaban suspendidos en el aire como humo de un incendio apagado. Al intentar agarrarse a la barandilla de la escalera para no caer en el vacío blanco que subía desde el salón, sus dedos de cera simplemente la atravesaron. No hubo resistencia. No hubo tacto. Su mano se hundió en la madera como si esta fuera una proyección holográfica, una mentira de materia que ya no reconocía su derecho a existir.
+
+La niña tropezó. El hombre vio cómo su cuerpo pequeño se inclinaba hacia el abismo de los peldaños que desaparecían. En un último esfuerzo de voluntad, una llamarada de esa hipótesis salvadora que se negaba a morir, el hombre se abalanzó para sostenerla. Estiró sus brazos de sombra, cerrando los dedos sobre los hombros de la pequeña.
+
+Pero no hubo impacto. Sus manos pasaron a través de la carne rosada de la niña como si ella fuera de luz y él de humo. Sintió el calor de su sangre por una milésima de segundo, un incendio biológico que le quemó la nada de sus palmas, y luego, el vacío. La niña no sintió sus manos protegiéndola; solo sintió una ráfaga de un frío glacial, un hachazo de muerte que la hizo gritar de terror.
+
+“Soy aire muerto”, comprendió el hombre, y el pensamiento fue más doloroso que cualquier desintegración atómica.
+
+La niña cayó, rodando por unos peldaños que ya no eran de madera, sino de una sustancia blanca y viscosa. Se levantó abajo, en el salón, sollozando con una angustia que le desgarró los nervios al hombre. Ella buscaba la salida, buscaba a la madre, buscaba cualquier cosa que no fuera ese frío que la perseguía. Él estaba allí, a su lado, intentando gritar su nombre, intentando interponer su cuerpo gris entre ella y las grietas de la realidad que se abrían en el suelo, pero no era más que una mancha de humedad en un mundo que ya no lo contenía.
+
+La correa de sombra estaba muerta. El vínculo que le permitía interactuar con la materia, ese permiso especial que el sistema le otorgó a cambio de su vigilancia, había sido revocado en el momento en que el desprecio ocupó el lugar de la devoción. El hombre se miró las manos y vio que ya no tenían forma; eran dos nubes de ceniza que se dispersaban en el aire saturado de ozono. Su cicatriz del vientre se había convertido en un agujero blanco, un túnel que conectaba su pecho directamente con el vacío exterior.
+
+El cinismo regresó por última vez, una risa silenciosa que le sacudió lo que quedaba de sus hombros: “Mírate, Arriaga. El hombre que huyó de la vida ahora huye de la muerte porque no tiene manos para agarrarse a ninguna de las dos”.
+
+La niña alcanzó la puerta principal y tiró de ella. El hombre intentó empujar el aire para ayudarla, pero sus moléculas se disgregaron con el esfuerzo. Vio cómo ella salía a la calle, hacia el gris monótono del asfalto, y cómo la puerta se cerraba tras ella. En ese instante, la casa dejó de intentar ser una casa. Las paredes se desmoronaron hacia adentro, no con ruido de escombros, sino con el silencio de un dibujo que se borra.
+
+El hombre se quedó solo en el epicentro de la nada. El suelo desapareció. El techo desapareció. La luz de yema de huevo podrida fue sustituida por el blanco absoluto. Estaba suspendido en el vacío, una mancha de estática gris que se disolvía lentamente, escuchando el eco lejano del llanto de la niña que ya no podía proteger, y el crujido del cuarto peldaño que ahora era solo un recuerdo en una mente que estaba a punto de volver a ser nada.
