@@ -1,0 +1,41 @@
+name: Trigger PAM Deploy
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+
+jobs:
+  trigger-pam-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      # Paso 1: Configurar el repositorio y ejecutar npm build
+      - name: Check out the repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build the project
+        run: npm run build
+
+      # Paso 2: Trigger PAM Deploy Workflow
+      - name: Trigger PAM Deploy Workflow
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.TRIGGER_TOKEN }} # Usa el mismo secreto configurado en PAM
+          script: |
+            github.rest.actions.createWorkflowDispatch({
+              owner: 'a81Biz',
+              repo: 'PAM',
+              workflow_id: 'main.yml',
+              ref: 'master'
+            })
