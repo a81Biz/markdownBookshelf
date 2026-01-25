@@ -40,6 +40,7 @@ const ReaderPage = () => {
     const [isLoading, setIsLoading] = useState(true);
     const [blocks, setBlocks] = useState<ContentBlock[]>([]);
     const [chapterInfo, setChapterInfo] = useState<ChapterInfo>({ title: '', author: '' });
+    const [wordCount, setWordCount] = useState<number>(0);
     const [error, setError] = useState<string | null>(null);
 
     // Theme & Appearance
@@ -177,20 +178,28 @@ const ReaderPage = () => {
 
                 const parsedBlocks: ContentBlock[] = [];
                 let counter = 0;
+                let totalWords = 0;
 
                 Array.from(tempDiv.children).forEach((child) => {
                     const text = child.textContent?.trim();
+                    const tag = child.tagName.toLowerCase();
                     if (text) {
+                        if (!['h1', 'h2', 'h3', 'h4', 'h5', 'h6'].includes(tag)) {
+                            const words = text.split(/\s+/).filter(w => w.length > 0);
+                            totalWords += words.length;
+                        }
+
                         parsedBlocks.push({
                             id: `block-${counter++}`,
                             html: child.outerHTML,
                             text: text,
-                            tag: child.tagName.toLowerCase()
+                            tag: tag
                         });
                     }
                 });
 
                 setBlocks(parsedBlocks);
+                setWordCount(totalWords);
 
             } catch (error) {
                 console.error("Failed to load book content:", error);
@@ -333,6 +342,10 @@ const ReaderPage = () => {
                 </div>
 
                 <div className="flex gap-2 items-center">
+                    <div className="flex flex-col items-end mr-4">
+                        <span className="text-[10px] font-bold uppercase tracking-wider opacity-50">Palabras</span>
+                        <span className="font-mono font-bold text-sm">{wordCount.toLocaleString()}</span>
+                    </div>
                     <div className="flex gap-1 p-1 rounded-lg bg-black/5 dark:bg-white/5">
                         <button onClick={() => setTheme('light')} className={`p-1.5 rounded-md ${theme === 'light' ? 'bg-white shadow' : ''}`}><span className="material-symbols-outlined text-base">light_mode</span></button>
                         <button onClick={() => setTheme('sepia')} className={`p-1.5 rounded-md ${theme === 'sepia' ? 'bg-sepia-secondary/20 shadow' : ''}`}><span className="material-symbols-outlined text-base">tonality</span></button>

@@ -8,10 +8,10 @@
     },
     {
         "id": 2,
-        "title": "La Mancha de Calcio",
+        "title": "Siempre Estaré Aquí",
         "author": "Alberto Martínez",
-        "cover": "novels/la-mancha-de-calcio/cover/cover.webp",
-        "path": "novels/la-mancha-de-calcio/index.json"
+        "cover": "novels/siempre-estare-aqui/cover/cover.webp",
+        "path": "novels/siempre-estare-aqui/index.json"
     },
     {
         "id": 3,
