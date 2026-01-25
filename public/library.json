@@ -8,10 +8,10 @@
     },
     {
         "id": 2,
-        "title": "Castigo",
+        "title": "La Mancha de Calcio",
         "author": "Alberto Martínez",
-        "cover": "novels/castigo/cover/cover.webp",
-        "path": "novels/castigo/index.json"
+        "cover": "novels/la-mancha-de-calcio/cover/cover.webp",
+        "path": "novels/la-mancha-de-calcio/index.json"
     },
     {
         "id": 3,

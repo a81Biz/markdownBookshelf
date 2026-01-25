@@ -1,0 +1,349 @@
+﻿{
+    "title": "La Mancha de Calcio",
+    "author": "Alberto Martínez",
+    "book": [
+        {
+            "act": "ACTO I: LA CUNA DE MADERA ASTILLADA",
+            "chapters": [
+                {
+                    "chapter": "CAPÍTULO 1: ¿Muerto?",
+                    "segments": [
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-1-segmento-1.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-1-segmento-2.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-1-segmento-3.md"
+                        }
+                    ]
+                },
+                {
+                    "chapter": "CAPÍTULO 2: Tengo que salir",
+                    "segments": [
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-2-segmento-1.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-2-segmento-2.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-2-segmento-3.md"
+                        }
+                    ]
+                },
+                {
+                    "chapter": "CAPÍTULO 3: Cuídala",
+                    "segments": [
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-3-segmento-1.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-3-segmento-2.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-3-segmento-3.md"
+                        }
+                    ]
+                },
+                {
+                    "chapter": "CAPÍTULO 4: Cierra la puerta",
+                    "segments": [
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-4-segmento-1.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-4-segmento-2.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-4-segmento-3.md"
+                        }
+                    ]
+                },
+                {
+                    "chapter": "CAPÍTULO 5: Me ha visto",
+                    "segments": [
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-5-segmento-1.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-5-segmento-2.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-5-segmento-3.md"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "act": "ACTO II: EL ESPEJO DE PLATA ENNEGRECIDA",
+            "chapters": [
+                {
+                    "chapter": "CAPÍTULO 6: Eres mi hija",
+                    "segments": [
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-6-segmento-1.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-6-segmento-2.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-6-segmento-3.md"
+                        }
+                    ]
+                },
+                {
+                    "chapter": "CAPÍTULO 7: No toques eso",
+                    "segments": [
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-7-segmento-1.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-7-segmento-2.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-7-segmento-3.md"
+                        }
+                    ]
+                },
+                {
+                    "chapter": "CAPÍTULO 8: Arriaga",
+                    "segments": [
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-8-segmento-1.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-8-segmento-2.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-8-segmento-3.md"
+                        }
+                    ]
+                },
+                {
+                    "chapter": "CAPÍTULO 9: Es por tu bien",
+                    "segments": [
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-9-segmento-1.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-9-segmento-2.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-9-segmento-3.md"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "act": "ACTO III: LA VERJA DE HIERRO VERDE",
+            "chapters": [
+                {
+                    "chapter": "CAPÍTULO 10: Mañana entraré",
+                    "segments": [
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-10-segmento-1.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-10-segmento-2.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-10-segmento-3.md"
+                        }
+                    ]
+                },
+                {
+                    "chapter": "CAPÍTULO 11: Déjame recordar",
+                    "segments": [
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-11-segmento-1.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-11-segmento-2.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-11-segmento-3.md"
+                        }
+                    ]
+                },
+                {
+                    "chapter": "CAPÍTULO 12: Perdóname",
+                    "segments": [
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-12-segmento-1.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-12-segmento-2.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-12-segmento-3.md"
+                        }
+                    ]
+                },
+                {
+                    "chapter": "CAPÍTULO 13: Vuelve a casa",
+                    "segments": [
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-13-segmento-1.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-13-segmento-2.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-13-segmento-3.md"
+                        }
+                    ]
+                },
+                {
+                    "chapter": "CAPÍTULO 14: Solo es basura",
+                    "segments": [
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-14-segmento-1.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-14-segmento-2.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-14-segmento-3.md"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "act": "ACTO IV: LA MANCHA DE CALCIO",
+            "chapters": [
+                {
+                    "chapter": "CAPÍTULO 15: Nada cambiará",
+                    "segments": [
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-15-segmento-1.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-15-segmento-2.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-15-segmento-3.md"
+                        }
+                    ]
+                },
+                {
+                    "chapter": "CAPÍTULO 16: Yo lo hice",
+                    "segments": [
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-16-segmento-1.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-16-segmento-2.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-16-segmento-3.md"
+                        }
+                    ]
+                },
+                {
+                    "chapter": "CAPÍTULO 17: Suéltala",
+                    "segments": [
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-17-segmento-1.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-17-segmento-2.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-17-segmento-3.md"
+                        }
+                    ]
+                },
+                {
+                    "chapter": "CAPÍTULO 18: Grado Cero",
+                    "segments": [
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-18-segmento-1.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-18-segmento-2.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-18-segmento-3.md"
+                        }
+                    ]
+                },
+                {
+                    "chapter": "CAPÍTULO 19: Papá",
+                    "segments": [
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-19-segmento-1.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-19-segmento-2.md"
+                        },
+                        {
+                            "segment": "***",
+                            "file": "md/cap-tulo-19-segmento-3.md"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
